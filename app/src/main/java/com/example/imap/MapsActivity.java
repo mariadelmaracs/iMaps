@@ -112,7 +112,7 @@ public class MapsActivity extends FragmentActivity implements GoogleMap.OnMarker
             marker.setTag(clickCount);
             Toast.makeText(this,
                     marker.getTitle() +
-                            " has sido clickeado " + clickCount + " veces.",
+                            " ha sido clickeado " + clickCount + " veces.",
                     Toast.LENGTH_SHORT).show();
         }
 
