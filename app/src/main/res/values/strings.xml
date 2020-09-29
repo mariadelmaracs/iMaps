@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="b_location">Basílica del Señor de los Milagros</string>
+    <string name="l_location">Reserva Natural Laguna de Sonso</string>
+    <string name="d_location">El Derrumbado</string>
+    <string name="e_location">Estadio Olímpico Hernando Azcárate Martínez</string>
+    <string name="b_description">Basílica menor católica colombiana.</string>
+    <string name="l_description">Humedal más grande del Valle del Cauca.</string>
+    <string name="d_description">Zona de senderismo.</string>
+    <string name="e_description">Instalación deportiva.</string>
+</resources>
